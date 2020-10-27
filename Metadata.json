@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 21926,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/view-azure-alert-data/master/ViewAzureAlertData.graphrunbook",
+    "DownloadCount": 1364,
+    "Id": "View-Azure-Alert-Data-b4096c2c",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 355,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-5-19T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "Use this Graphical PowerShell runbook to test Azure alerts.  This runbook is designed to be called from an Azure alert via a webhook. The alert data is passed in the runbook input parameter WebhookData. This runbook parses that data and outputs the individual alert properties.",
+    "Title": "View Azure Alert Data",
+    "UpdatedDate": "2016-7-1T00:00:00",
+    "Url": "https://github.com/azureautomation/view-azure-alert-data",
+    "UserTags": "Azure Automation, GraphicalPS, Azure Alert"
+}
